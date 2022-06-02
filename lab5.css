@@ -1,0 +1,26 @@
+
+
+body {
+    margin: 20px;
+}
+
+#clockContainer {
+   
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.class1 {
+    background-color: #cd668086;
+    padding: 15px;
+    color: #fff;
+}
+
+.class2 {
+    background-color: #e04040;
+    padding: 15px;
+    color: #FF00FF;
+}
